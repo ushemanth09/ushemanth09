@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ushemanth09
+- 👋 Hi, I’m @ushemanth
 - 👀 I’m interested in UX Design
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate 
