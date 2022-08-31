@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ushemanth09
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Analytics
+- 👀 I’m interested in UX Design
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate 
 - 📫 To reach me ushemanth09@gmail.com
 
